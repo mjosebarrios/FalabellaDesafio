@@ -13,6 +13,8 @@ Instrucciones:
     ![image](https://user-images.githubusercontent.com/114890234/193567453-3f7aa937-7039-449a-b2b2-c120e5a157e4.png)
     
     
+    
+    
   4.Abrir el terminal de comandos de IntelliJ
   
   5.Ejecutar comando para limpiar proyecto
