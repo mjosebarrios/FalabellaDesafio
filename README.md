@@ -10,8 +10,7 @@ Instrucciones:
   
   3.Instalar dependencias de Maven:
   Icono de flechas arriba/abajo de maven
-  
-    ![image](https://user-images.githubusercontent.com/114890234/193567453-3f7aa937-7039-449a-b2b2-c120e5a157e4.png)
+  ![image](https://user-images.githubusercontent.com/114890234/193567453-3f7aa937-7039-449a-b2b2-c120e5a157e4.png)
     
     
     
