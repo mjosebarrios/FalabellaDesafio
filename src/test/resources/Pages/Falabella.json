@@ -1,0 +1,91 @@
+{
+  "MenuLoginList": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div[1]/header/div[1]/div[1]/div[3]/ul/div/li[1]/p"
+  },
+  "BttnNoGracias": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div[7]//div/div/div[3]/button[1]"
+  },
+  "Registrar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "id=testId-loggedout-item-1"
+  },
+  "InputNombre": {
+    "GetFieldBy": "cssSelector",
+    "ValueToFind": "#testId-Input-firstName"
+  },
+  "InputApellido": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@id=\"testId-Input-lastName\"]"
+  },
+  "InputRut": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@id=\"testId-Input-document\"]"
+  },
+  "InputTelefono": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@id=\"testId-Input-phoneNumber\"]"
+  },
+  "InputCorreo": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@id=\"testId-Input-email\"]"
+  },
+  "InputClave": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@id=\"testId-Input-password\"]"
+  },
+  "BttnAceptarCookies": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div[1]/footer/section[4]/button"
+  },
+  "CheckTratamientoDatos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@id=\"__next\"]/div/div/div/div[1]/div[2]/div[8]/div/div[1]/label/span/p/span[1]"
+  },
+  "CheckTerminos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@id=\"__next\"]/div/div/div/div[1]/div[2]/div[8]/div/div[2]/label/span/p/span[1]"
+  },
+  "BttonRegistrarse": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@id=\"testId-Button-submit\"]"
+  },
+  "LabelCorreoExistente": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@id=\"__next\"]/div/div/div/div[1]/div[2]/div[5]/div[2]/span/span"
+  },
+  "BttnMenuHolaInicioSesion": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@id=\"testId-UserAction-userinfo\"]/div/div[2]"
+  },
+  "Frame1": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/iframe[1]"
+  },
+  "BttnIniciarSesion": {
+    "GetFieldBy": "id",
+    "ValueToFind": "testId-loggedout-item-0"
+  },
+  "InputEmailInicioSesion": {
+  "GetFieldBy": "id",
+  "ValueToFind": "testId-cc-login-form-email-input"
+},
+  "InputClaveInicioSesion": {
+    "GetFieldBy": "id",
+    "ValueToFind": "testId-cc-login-form-password-input"
+  },
+  "BttonIngresar": {
+    "GetFieldBy": "id",
+    "ValueToFind": "testId-cc-login-form-submit"
+  },
+  "BttnRegistrate": {
+    "GetFieldBy": "id",
+    "ValueToFind": "testId-loggedout-item-1"
+  },
+  "CierreModalCyber": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div[3]/div[2]/div/div[1]"
+  }
+
+}
