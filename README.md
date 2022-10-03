@@ -1,6 +1,12 @@
 # FalabellaDesafio
 Desafio de Falabella - Qa automation
 
+Software Requeridos:
+ 1. IntelliJ IDEA (Community Edition)
+ 2. Apache maven(3.8.2)
+ 3. Git
+ 4. Java JDK (1.8)
+
 Instrucciones:
  1. Clonar Repositorio con la siguiente instruccion desde su directorio de trabajo: 
  git clone https://github.com/mjosebarrios/FalabellaDesafio
